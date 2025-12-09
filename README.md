@@ -1,4 +1,4 @@
-# YT-Streamer (Tier 1+2): YouTube Music Streaming Application
+# Chronosonic YouTube Music Streaming Application
 
 ## Overview
 YT-Streamer is a comprehensive desktop music player application designed to stream and download audio from YouTube. Developed with Python and PyQt6, it delivers a full-featured music streaming experience with an interface resembling popular music services, complete with playlist management, advanced playback controls, and intelligent music discovery.
